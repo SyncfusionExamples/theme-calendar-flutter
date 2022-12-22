@@ -6,6 +6,8 @@ The [SfCalendarTheme](https://pub.dev/documentation/syncfusion_flutter_core/late
 
 Use the 'SfCalendarTheme' widget inside the body of the 'Scaffold' to apply the theme to the Flutter Calendar. Then, as a child of 'SfCalendarTheme,' add the calendar.
 
+![DarkTheme](https://user-images.githubusercontent.com/46158936/209131611-ebbbda7e-a54d-4fb4-b36a-0c5c101c9bad.png)
+
 For more details , refer to this [KB](https://www.syncfusion.com/kb/11899/how-to-apply-theming-in-flutter-calendar) documentation.
 
 ## Requirements to run the demo
